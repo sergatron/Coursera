@@ -8,3 +8,5 @@ Each page of the newspapers is saved as a single PNG image in a file called [ima
 
 # File Description
  - **cv_project_finished.ipynb**: Jupyter Notebook with complete code and resulting outputs. 
+ - **samll_img.zip**: smaller sized images used to test the code.
+ - **images.zip**: contains all full sized images for the last run.
