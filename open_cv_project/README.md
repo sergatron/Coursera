@@ -1,4 +1,7 @@
 # Python Project: pillow, tesseract, and opencv
+Portfolio [Link](https://github.com/sergatron/Portfolio)
+
+
 *Python Programming Specialization* offered by Univesrity of Michigan on [Coursera](https://www.coursera.org/learn/python-project)
 
 ### The Assignment ###
